@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>admin</dc:creator>
+  <dc:title>Experiment for "Test publication"</dc:title>
+  <dc:subject>Reproduction of the work in "Test publication" by "Stefan Haider"</dc:subject>
+  <dc:description>some markdown **bla**</dc:description>
+  <dc:date>2018-06-26T11:50:30.369737</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>a3c8ac59-b99d-416a-bd19-48e29eea0967</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearchTest/Testpublication_Experiment_01</dc:identifier>
+  <dc:relation />
+</metadata>
